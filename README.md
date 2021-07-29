@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Oi, eu sou o Capi Etheriel.
+Meu negócio é raspagem de dados da Web para fins cívicos.
+Se esse for o seu negócio também, entre em contato.

@@ -2,7 +2,7 @@
 
 Hi, I am Capi Etheriel.
 I have a thing for web scraping data for civic projects.  
-If thatś your thing too, get in touch.
+If that's your thing too, get in touch.
 
 https://barraponto.dev.br
 
